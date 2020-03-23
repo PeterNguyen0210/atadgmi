@@ -1,0 +1,88 @@
+﻿{
+  "meta": {
+    "success": 1,
+    "message": ""
+  },
+  "data": {
+    "list_stickers": [
+      {
+        "name": "Heart",
+        "folder": "Heart",
+        "icon": "icon_Heart.png",
+        "total_image": 32
+      },
+      {
+        "name": "Sun",
+        "folder": "Sun",
+        "icon": "icon_Sun.png",
+        "total_image": 20
+      },
+      {
+        "name": "Text",
+        "folder": "Text",
+        "icon": "icon_Text.png",
+        "total_image": 18
+      },
+      {
+        "name": "Emotion",
+        "folder": "Emotion",
+        "icon": "icon_Emotion.png",
+        "total_image": 39
+      },
+      {
+        "name": "Cat Face",
+        "folder": "CatFace",
+        "icon": "icon_CatFace.png",
+        "total_image": 65
+      },
+      {
+        "name": "Flush",
+        "folder": "Flush",
+        "icon": "icon_Flush.png",
+        "total_image": 20
+      },
+      {
+        "name": "Ear",
+        "folder": "Ear",
+        "icon": "icon_Ear.png",
+        "total_image": 19
+      },
+      {
+        "name": "Mouth",
+        "folder": "Mouth",
+        "icon": "icon_Mouth.png",
+        "total_image": 17
+      },
+      {
+        "name": "Bowknot",
+        "folder": "Bowknot",
+        "icon": "icon_Bowknot.png",
+        "total_image": 22
+      },
+      {
+        "name": "Glass",
+        "folder": "Glass",
+        "icon": "icon_Glass.png",
+        "total_image": 15
+      },
+      {
+        "name": "Six Pack",
+        "folder": "SixPack",
+        "icon": "icon_SixPack.png",
+        "total_image": 108
+      },
+      {
+        "name": "Chest",
+        "folder": "Chest",
+        "icon": "icon_Chest.png",
+        "total_image": 48
+      },
+      {
+        "name": "Tattoo",
+        "folder": "Tattoo",
+        "icon": "icon_Tattoo.png",
+        "total_image": 231
+      }
+    ]
+  }
+}
