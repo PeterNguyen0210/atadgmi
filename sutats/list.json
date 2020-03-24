@@ -1,0 +1,82 @@
+﻿{
+
+	"meta": {
+
+		"success": 1,
+
+		"message": ""
+
+	},
+
+	"data": {
+		"list_cate_status": [
+			{
+				"name": "Tình Yêu",
+				"folder": "TinhYeu",
+				"total_image": 116,
+				"total_bg": 102,
+				"content_online": []},
+			{
+				"name": "Tình Bạn",
+				"folder": "TinhBan",
+				"total_image": 51,
+				"total_bg": 55,
+				"content_online":[]},
+			{
+				"name": "Hài Hước",
+				"folder": "HaiHuoc",
+				"total_image": 77,
+				"total_bg": 111,
+				"content_online": []},
+			{
+				"name": "Cuộc Sống",
+				"folder": "CuocSong",
+				"total_image": 54,
+				"total_bg": 53,
+				"content_online": []},
+			{
+				"name": "Tiền Bạc",
+				"folder": "TienBac",
+				"total_image": 40,
+				"total_bg": 30,
+				"content_online": []},
+			{
+				"name": "Giáo Dục",
+				"folder": "GiaoDuc",
+				"total_image": 36,
+				"total_bg": 0,
+				"content_online": []},
+			{
+				"name": "Sự Nghiệp",
+				"folder": "SuNghiep",
+				"total_image": 0,
+				"total_bg": 0,
+				"content_online": []},
+			{
+				"name": "Đàn Ông",
+				"folder": "DanOng",
+				"total_image": 0,
+				"total_bg": 0,
+				"content_online": []},
+			{
+				"name": "Văn Hóa",
+				"folder": "VanHoa",
+				"total_image": 0,
+				"total_bg": 0,
+				"content_online": []},
+			{
+				"name": "Thời Gian",
+				"folder": "ThoiGian",
+				"total_image": 0,
+				"total_bg": 0,
+				"content_online": []}
+		],
+		"cate_other": {
+			"name": "Chủ Đề Khác",
+			"folder": "Other",
+			"total_image": 0,
+			"total_bg": 52
+		}
+	}
+
+}
