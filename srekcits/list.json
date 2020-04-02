@@ -66,18 +66,6 @@
         "total_image": 15
       },
       {
-        "name": "Six Pack",
-        "folder": "SixPack",
-        "icon": "icon_SixPack.png",
-        "total_image": 108
-      },
-      {
-        "name": "Chest",
-        "folder": "Chest",
-        "icon": "icon_Chest.png",
-        "total_image": 48
-      },
-      {
         "name": "Tattoo",
         "folder": "Tattoo",
         "icon": "icon_Tattoo.png",
